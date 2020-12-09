@@ -1,0 +1,22 @@
+List Soal
+
+1.  Penjumlahan 1 bilangan
+2.  Pengurangan 1 bilangan
+3.  Perkalian 1 bilangan
+4.  Pembagian 1 bilangan
+5.  Penjumlahan 2 bilangan
+6.  Pengurangan 2 bilangan
+7.  Perkalian 2 bilangan
+8.  Pembagian 2 bilangan
+9.  Penjumlahan + Pengurangan
+10. Perkalian + Penjumlahan
+11. Perkalian + Pengurangan
+12. Pembagian + Penjumlahan
+13. Pembagian + Pengurangan
+14. Perkalian + Pembagian
+15. Perkalian + Penjumlahan + pengurangan
+16. Faktorial
+17. keliling Persegi panjang
+18. Luas Lingkaran
+19. Volume Kubus
+20. Volume Tabung
