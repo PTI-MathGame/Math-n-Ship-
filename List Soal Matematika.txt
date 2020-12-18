@@ -10,13 +10,13 @@ List Soal
 8.  Pembagian 2 bilangan
 9.  Penjumlahan + Pengurangan
 10. Perkalian + Penjumlahan
-11. Perkalian + Pengurangan
-12. Pembagian + Penjumlahan
-13. Pembagian + Pengurangan
-14. Perkalian + Pembagian
-15. Perkalian + Penjumlahan + pengurangan
-16. Faktorial
-17. keliling Persegi panjang
-18. Luas Lingkaran
-19. Volume Kubus
-20. Volume Tabung
+11. Faktorial
+12. Perkalian + Pengurangan
+13. Luas Permukaan Balok
+14. Pembagian + Pengurangan
+15. Luas Lingkaran
+16. Pembagian + Penjumlahan
+17. Volume Kubus
+18. Perkalian + Pembagian
+19. Volume Bola
+20. Perkalian + Penjumlahan + pengurangan
