@@ -1,5 +1,5 @@
-# MathGame
-This game built by Construct 2
+# Math'n Ship!
+This game built by Construct 3
 
 Credits By :
 + Ary Syaddam
